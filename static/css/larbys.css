@@ -1,0 +1,13 @@
+#bottomright
+{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: block;
+    z-index: -1;
+    max-width:100%
+}
+
